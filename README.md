@@ -1,2 +1,3 @@
 # printf repository read me..
-collaborator will commplete the remaining readme
+0x11. C - printf
+ALX group project on printf.
