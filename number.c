@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * convert - converter function, a clone of itoa
+ * convert - converter function, a clone
  * @num: number
  * @base: base
  * @flags: argument flags
